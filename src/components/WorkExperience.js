@@ -6,7 +6,7 @@ function WorkExperience() {
             <Typography sx={{borderBottom: "2px solid #757de8", mt:8, fontWeight: "bold", p:{xs: 0, md: 2}}}>EXPERIENCE</Typography>
             <Box sx={{display: {xs: "block", md: "grid"}, gridTemplateColumns: "1fr 1fr", mt:2}}>
                 <Box>
-                    <Typography>Frontend Developer @Hotels.ng</Typography>
+                    <Typography sx={{fontWeight: "bold"}}>Frontend Developer @Hotels.ng</Typography>
                     <Typography sx={{color: "#757de8"}}>May 2020 - Dec 2021</Typography>
                 </Box>
                 <Box>
@@ -22,7 +22,7 @@ function WorkExperience() {
 
             <Box sx={{display: {xs: "block", md: "grid"}, gridTemplateColumns: "1fr 1fr", mt:2}}>
                 <Box>
-                    <Typography>Front End Developer @Future Pay</Typography>
+                    <Typography sx={{fontWeight: "bold"}}>Front End Developer @Future Pay</Typography>
                     <Typography sx={{color: "#757de8"}}>Jan 2021 - Present</Typography>
                 </Box>
                 <Box>
@@ -40,7 +40,7 @@ function WorkExperience() {
 
             <Box sx={{display: {xs: "block", md: "grid"}, gridTemplateColumns: "1fr 1fr", mt:2}}>
                 <Box>
-                    <Typography>EddieHub organization</Typography>
+                    <Typography sx={{fontWeight: "bold"}}>EddieHub organization</Typography>
                     <Typography sx={{color: "#757de8"}}>Jan 2022 - Open source Project</Typography>
                 </Box>
                 <Box>
