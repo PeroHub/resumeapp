@@ -13,7 +13,7 @@ function Profile() {
             </Box>
             <Box sx={{p:4}}>
                 <Typography variant='h5' sx={{borderBottom: "2px solid #757de8", color: "#fff"}}>Profile</Typography>
-                <Typography sx={{mt:2, color: "#fff"}}>I have extensive frontend experience specializing in React-based web applications.I pride myself on designing intuitive interfaces that are fast, scalable, accessible, and performant REACT APPLICATIONS, which are responsive in all screen sizes</Typography>
+                <Typography sx={{mt:2, color: "#fff"}}>I'm a web-mobile frontend specialist. I have extensive frontend experience specializing in React-based web applications.I pride myself on designing intuitive interfaces that are fast, scalable, accessible and performant REACT APPLICATIONS, which are responsive in all screen sizes</Typography>
             </Box>
         </Box>
      );

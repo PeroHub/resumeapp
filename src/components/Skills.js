@@ -26,7 +26,7 @@ function Skills() {
             setReact([86])
             setGithub([80])
             setMui([97])
-       }, 3000)
+       }, 4000)
         
       }, []);
 

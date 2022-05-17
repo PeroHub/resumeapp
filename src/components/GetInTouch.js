@@ -6,7 +6,14 @@ function GetInTouch() {
         <Box sx={{p:4}}>
             
             <Typography variant='h5' sx={{borderBottom: "2px solid #757de8", color: "#fff"}}>Get In Touch</Typography>
-            <Typography sx={{mt:2, color: "#fff"}}>Hello! I'm Peter Ime, a Frontend Developer for Web and Mobile, I love creating beautiful and intuitive interfaces for users. I have an eye for design with a User-Driven Approach to Development. In my spare time, I work on CSS Animations. I am currently building with React</Typography>
+            <Typography sx={{ mt: 2, color: "#fff", fontSize: "20px"}}>Phone</Typography>
+            <Typography sx={{ color: "#fff", fontSize: "16px"}}>+2347034825560</Typography>
+            <Typography sx={{ mt: 2, color: "#fff", fontSize: "20px"}}>Mail</Typography>
+            <Typography sx={{ color: "#fff", fontSize: "16px"}}>peterime600@gmail.com</Typography>
+            <Typography sx={{ mt: 2, color: "#fff", fontSize: "20px"}}>Web</Typography>
+            <Typography sx={{ color: "#fff", fontSize: "16px"}}>https://peter-ime.netlify.app/</Typography>
+            <Typography sx={{ mt: 2, color: "#fff", fontSize: "20px"}}>Address</Typography>
+            <Typography sx={{ color: "#fff", fontSize: "16px"}}>Akwa Ibom, Nigeria</Typography>
         
         </Box>
      );
