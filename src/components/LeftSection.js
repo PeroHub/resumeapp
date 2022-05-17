@@ -4,7 +4,7 @@ import GetInTouch from './GetInTouch';
 import Skills from './Skills';
 function LeftSection() {
     return ( 
-        <Box sx={{border: "1px solid red", background: "#455a64", position: "sticky"}}>
+        <Box sx={{background: "#455a64", position: "sticky", height: "100vh", overflow: "scroll"}}>
             <Profile />
             <Skills />
             <GetInTouch />
