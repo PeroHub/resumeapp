@@ -3,7 +3,6 @@ import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 import Slider from '@mui/material/Slider';
 function Skills() {
-    const [valueOne, setValueOne] = useState(0);
     const [ html, setHmtl ] = useState(0)
     const [css, setCss ] = useState(0)
 
