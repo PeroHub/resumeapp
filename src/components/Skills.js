@@ -20,7 +20,6 @@ function Skills() {
 
         setTimeout(function(){
             //Insert code here. Here is an example using discord.js
-            setValueOne([90]);
             setHmtl([95]);
             setCss([85]);
             setJavascript([87])
